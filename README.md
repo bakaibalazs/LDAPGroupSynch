@@ -1,2 +1,2 @@
 # LDAPGroupSynch
-This sonarQube plugin synchronizes the SonarQube database and the LDAP Groups
+This SonarQube plugin synchronizes the LDAP Groups to the SonarQube database
